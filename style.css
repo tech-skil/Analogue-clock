@@ -63,6 +63,13 @@
   padding:1vw;
   text-shadow: -0.11vw 0 black, 0 0.09vw black, 0.1vw 0 black, 0 -0.11vw black;
 }
+body{
+  
+  background: rgb(136,231,248);
+  background: linear-gradient(90deg, rgba(136,231,248,1) 12%, rgba(255,255,255,0) 46%, rgba(86,147,242,1) 98%);
+
+}
+
 
 h3{
   width: fit-content;
